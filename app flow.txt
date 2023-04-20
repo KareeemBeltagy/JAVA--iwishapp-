@@ -1,0 +1,3 @@
+* View ---request--> Socket (@client) --> 
+		Socket (@Server) --> ClientController --> 
+		Handle --> ModelManager* ---response --> Client
